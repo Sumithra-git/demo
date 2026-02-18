@@ -1,3 +1,3 @@
-#Learning
+# Learning
 
-Git & Github learnings
+Git & Github learnings.
